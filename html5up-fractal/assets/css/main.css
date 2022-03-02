@@ -3666,8 +3666,8 @@ input, select, textarea {
 			#header button.primary,
 			#header .button.primary {
 				box-shadow: none;
-				background-color: #E96BFA;
-				color: #4696e5 !important;
+				background-color: #ffffff;
+				color: #E96BFA !important;
 			}
 
 		#header label {
